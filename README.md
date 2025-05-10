@@ -1,2 +1,9 @@
-# oop-polymorphism-challenge
-This Python project demonstrates Object-Oriented Programming (OOP) principles, focusing on class design, inheritance, encapsulation, and polymorphism.
+# 🚀 OOP Polymorphism Challenge  
+
+## 📌 Description  
+This project showcases **Object-Oriented Programming (OOP)** concepts, including **class design, inheritance, encapsulation, and polymorphism**, using Python.  
+
+## 🛠️ Features  
+- **Custom Classes** (Superhero, Transport, Animal)  
+- **Encapsulation & Inheritance** for structured object behavior  
+- **Polymorphism** to demonstrate shared methods with different implementations
